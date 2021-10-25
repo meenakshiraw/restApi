@@ -15,7 +15,7 @@ app.use(studentRoute);
 
 app.listen(port,()=>{
 
-  console.log(`listning to the ${port}`);
+  console.log(`listning on the ${port}`);
 })
 
 
